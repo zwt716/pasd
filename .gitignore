@@ -1,0 +1,8 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# production 忽略config和main.py文件
+/core/config/config.py
+main.py
+
+
+**/__pycache__
